@@ -126,7 +126,7 @@ The risk score increases as more violations occur during the session.
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/Proctoring-System-Backend-Integration.git
+git clone https://github.com/jagruthi083/proctoring-system-backend-integration
 ```
 
 Navigate to project folder:
